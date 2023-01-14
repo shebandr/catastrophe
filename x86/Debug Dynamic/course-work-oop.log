@@ -1,0 +1,32 @@
+﻿  Скопировано файлов:         1.
+  Скопировано файлов:         1.
+  Скопировано файлов:         1.
+  Скопировано файлов:         1.
+  Скопировано файлов:         1.
+  Скопировано файлов:         1.
+  C:\Users\pc\source\repos\course-work-oop\resources\background.jpg
+  C:\Users\pc\source\repos\course-work-oop\resources\coal.png
+  C:\Users\pc\source\repos\course-work-oop\resources\coal_miner.png
+  C:\Users\pc\source\repos\course-work-oop\resources\coal_power_plant.png
+  C:\Users\pc\source\repos\course-work-oop\resources\conveyor.png
+  C:\Users\pc\source\repos\course-work-oop\resources\empty.png
+  C:\Users\pc\source\repos\course-work-oop\resources\grass.png
+  C:\Users\pc\source\repos\course-work-oop\resources\PressStart2P-Regular.ttf
+  Скопировано файлов:         8.
+  based_cell.cpp
+c:\users\pc\source\repos\course-work-oop\based_cell.cpp(68): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+  based_conveyor.cpp
+  based_factory.cpp
+c:\users\pc\source\repos\course-work-oop\based_factory.cpp(77): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+  cell_coal.cpp
+  coal_drill.cpp
+c:\users\pc\source\repos\course-work-oop\coal_drill.cpp(26): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+c:\users\pc\source\repos\course-work-oop\coal_drill.cpp(38): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+  coal_station.cpp
+  main.cpp
+  mouse_ui.cpp
+  ui.cpp
+c:\users\pc\source\repos\course-work-oop\ui.cpp(123): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+c:\users\pc\source\repos\course-work-oop\ui.cpp(136): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+  Создание кода...
+  course-work-oop.vcxproj -> C:\Users\pc\source\repos\course-work-oop\x86\Debug Dynamic\course-work-oop.exe
